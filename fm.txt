@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Makoto Shinkai - Biography and Works</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f8fa;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0d6efd;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        main {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background: white;
+        }
+        h1 {
+            font-size: 3em;
+            border-bottom: solid 1px silver;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 40px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .biography {
+            margin-bottom: 40px;
+        }
+        .work-item {
+            margin-bottom: 20px;
+            border-bottom: dashed 1px silver;
+            padding-bottom: 10px;
+        }
+        .work-title {
+            font-weight: bold;
+            font-size: 1.3em;
+        }
+        .awards-list {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+<h1>Makoto Shinkai</h1>
+<p>Japanese Animator, Screenwriter &amp; Manga Artist</p>
+</header>
+<main>
+<div class="biography">
+<h2>Biographical Information</h2>
+<ul>
+<li><strong>Full Name:</strong> Makoto Shinkai</li>
+<li><strong>Original Name:</strong> Makoto Niitsu</li>
+<li><strong>Date of Birth:</strong> February 9, 1973</li>
+<li><strong>Place of Birth:</small Kose-machi, Minamisaku District, Nagano Prefecture, Japan</small></li>
+<li><strong>Career Roles:</strong> Animator Director, Screenwriter, Manga Artist</li>
+<li><strong>Educational Background:</strong> Nagaoka North High School, Chuo University Faculty of Literature (Department of Japanese Literature)</li>
+</ul>
+</div>
+
+<h2>Filmography &amp; Honors</h2>
+<div class="work-item">
+<h3 class="work-title">She and Her Cat – Two Shorts About Her and Her Cat (1999)</h3>
+<p>Short Film | Black and White Animation</p>
+<ul class="awards-list">
+<li>Most Excellent Award at the 12th DoGA CG Animation Contest (2000)</li>
+</ul>
+</div>
+
+<div class="work-item">
+<h3 class="work-title">Voices of a Distant Star (2002)</h3>
+<p>Feature Film | Animated Movie</p>
+</div>
+
+<div class="work-item">
+<h3 class="work-title">The Place Promised in Our Early Days (2004)</h3>
+<p>Feature Film | Animated Movie</p>
+<ul class="awards-list">
+<li>Daily Sports Film Award for Best Animation Film (59th) (2005)</li>
+</ul>
+</div>
+
+<!-- Other works here following the same pattern -->
+
+<div class="work-item">
+<h3 class="work-title">Your Name (2016)</h3>
+<p>Feature Film | Animated Movie</p>
+<ul class="awards-list">
+<li>Best Screenplay at the 40th Japan Academy Prize (2017)</li>
+<li>Best Director at the 26th Japanese Movie Critics Awards (2017)</li>
+</ul>
+</div>
+
+<div class="work-item">
+<h3 class="work-title">Weathering with You (2019)</h3>
+<p>Feature Film | Animated Movie</p>
+<ul class="awards-list">
+<li>Best Animation Film at the 44th Hochi Film Award (2019)</li>
+</ul>
+</div>
+</main>
+</body>
+</html>
